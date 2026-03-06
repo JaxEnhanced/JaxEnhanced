@@ -1,4 +1,7 @@
-## Hi there 👋
+
+## 👋 Hi , I'm Jax!
+
+Aspiring student studying at The University of Hong Kong. Does [cool stuff](https://jaxtam.dev). Share course notes on [Notes@HKU](https://notes.jaxtam.dev)!
 
 <!--
 **JaxEnhanced/JaxEnhanced** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
